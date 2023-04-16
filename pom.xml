@@ -4,17 +4,4 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>my-module</artifactId>
   <version>1</version>
-  <dependency>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-thymeleaf</artifactId>
-</dependency>
-<dependency>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-web</artifactId>
-</dependency>
-<dependency>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-tomcat</artifactId>
-    <scope>provided</scope>
-</dependency>
-</project>
+ </project>
